@@ -14,8 +14,11 @@ To highlight as contributions that It is a project that has a direct and wide ap
 
 ## Electronic components
 ■ 1x Arduino
+
 ■ 1x Vacuum pump 
+
 ■ 1x Suction cup 
+
 ■ 1x Raspberry pi
 ■ 1x Raspberry pi camera 
 ■ 1x Power supply unit (8v) 
