@@ -20,16 +20,22 @@ To highlight as contributions that It is a project that has a direct and wide ap
 ■ 1x Suction cup 
 
 ■ 1x Raspberry pi
+
 ■ 1x Raspberry pi camera 
+
 ■ 1x Power supply unit (8v) 
+
 ■ 3x Servomotor (1 x MG995 ->15kg, 2x MG90S -> 2,2kg) -> require de 4.8 a 7.3 v
+
 ■ 1x Infrared proximity sensor 
+
 ■ 1x Robot Skeleton
 
-
 ## Hardware Scheme
+![Hardware](https://user-images.githubusercontent.com/65292012/118792763-41002380-b898-11eb-965f-4e1a38540268.png)
 
 ## Software Architecture
+![sw esquema](https://user-images.githubusercontent.com/65292012/118792813-4c534f00-b898-11eb-949b-dbbe1c49e3cd.png)
 
 ## Extra components and 3D pieces
 
