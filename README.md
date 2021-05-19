@@ -35,8 +35,10 @@ To highlight as contributions that It is a project that has a direct and wide ap
 ![Hardware](https://user-images.githubusercontent.com/65292012/118792763-41002380-b898-11eb-965f-4e1a38540268.png)
 
 ## Software Architecture
-![sw esquema](https://user-images.githubusercontent.com/65292012/118792813-4c534f00-b898-11eb-949b-dbbe1c49e3cd.png)
-
+<p align="center">
+ <img width="460" height="300" src="https://user-images.githubusercontent.com/65292012/118792813-4c534f00-b898-11eb-949b-dbbe1c49e3cd.png">
+ </p>
+  
 ## Extra components and 3D pieces
 ■ 2 Buttons
 
