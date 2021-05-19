@@ -92,6 +92,9 @@ These two supports allow us in the first case to hold the camera of the raspberr
 
 ## Simulation Strategy
 
+
+## Authors
+
 ## References
 
 [1] FANUC America Corporation (16 mar 2018). High Speed SCARA Robot for Pick & Place [YouTube]. https://youtu.be/-m1oKuFkSTE
