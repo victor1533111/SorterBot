@@ -32,11 +32,13 @@ To highlight as contributions that It is a project that has a direct and wide ap
 ■ 1x Robot Skeleton
 
 ## Hardware Scheme
-![Hardware](https://user-images.githubusercontent.com/65292012/118792763-41002380-b898-11eb-965f-4e1a38540268.png)
+<p align="center">
+ <img  src="https://user-images.githubusercontent.com/65292012/118792763-41002380-b898-11eb-965f-4e1a38540268.png">
+ </p>
 
 ## Software Architecture
 <p align="center">
- <img width="460" height="300" src="https://user-images.githubusercontent.com/65292012/118792813-4c534f00-b898-11eb-949b-dbbe1c49e3cd.png">
+ <img width="600" height="600" src="https://user-images.githubusercontent.com/65292012/118792813-4c534f00-b898-11eb-949b-dbbe1c49e3cd.png">
  </p>
   
 ## Extra components and 3D pieces
@@ -71,7 +73,10 @@ On top of this arm we find the piece that allows us to partially cover the prism
 Finally we find the camera support attached to the rotational arm and the proximity sensor support attached to the prismatic arm.
 These two supports allow us in the first case to hold the camera of the raspberry pi perpendicular to the points, as well as to protect it and in the second case to place the sensor near the suction cup to calculate the distance to the object.
 
-![image](https://user-images.githubusercontent.com/65292012/118793111-9805f880-b898-11eb-924d-9e0c91551795.png)
+<p align="center">
+ <img width="600" height="600" src="https://user-images.githubusercontent.com/65292012/118793111-9805f880-b898-11eb-924d-9e0c91551795.png">
+ </p>
+
 
 ## Code dependencies
 
