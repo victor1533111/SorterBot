@@ -33,7 +33,7 @@ To highlight as contributions that It is a project that has a direct and wide ap
 
 ## Hardware Scheme
 <p align="center">
- <img width="600" height="600" src="https://user-images.githubusercontent.com/65292012/118792763-41002380-b898-11eb-965f-4e1a38540268.png">
+ <img width="600" height="400" src="https://user-images.githubusercontent.com/65292012/118792763-41002380-b898-11eb-965f-4e1a38540268.png">
  </p>
 
 ## Software Architecture
