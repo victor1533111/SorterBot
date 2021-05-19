@@ -73,10 +73,13 @@ These two supports allow us in the first case to hold the camera of the raspberr
 
 ## Code dependencies
 
-.Tesseract OCR
-.OpenCV
-.Jupyter
-.CoppeliaSim
+-Tesseract OCR
+
+-OpenCV
+
+-Jupyter
+
+-CoppeliaSim
 
 ## Simulation Strategy
 
