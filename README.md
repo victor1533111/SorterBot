@@ -38,6 +38,38 @@ To highlight as contributions that It is a project that has a direct and wide ap
 ![sw esquema](https://user-images.githubusercontent.com/65292012/118792813-4c534f00-b898-11eb-949b-dbbe1c49e3cd.png)
 
 ## Extra components and 3D pieces
+■ 2 Buttons
+
+■ Body
+
+■ Rotational arm
+
+■ Proximity sensor holder
+
+■ Prismatic arm
+
+■ Flexible suction tube
+
+■ Camera support
+
+■ Suction tube storage and prismatic overlay (Vacuum zone)
+
+■ Base arm support
+
+■ 6 bars
+
+■ Nuts and bolts
+
+■ Servomotor Box
+
+The main part of SorterBot is the body which apart from being an important part as far as the weight distribution of the structure is concerned, is the part where the vacuum pump and the robot's computers are kept, which in this case are the arduino and the raspberry pi.
+In the body itself we find two buttons placed on its square base that allow us to select between the sorting algorithm (red button) and the organization (green button).
+Next to this body we find a rotational arm connected by 4 bars that allows us to increase the mobilization of the body in the axis of the and, in addition to perform a 360 degree angle by means of the servomotor that is incorporated in the servomotor box located on top of the arm.
+On top of this arm we find the piece that allows us to partially cover the prismatic arm as it moves along the z-axis, in addition to being the receiver of the flexible suction tube that is connected to the vacuum pump that goes from the base to the storage and generates the suction force of the suction cup [2]. It should be noted that this part allows us to create a vacuum zone.
+Finally we find the camera support attached to the rotational arm and the proximity sensor support attached to the prismatic arm.
+These two supports allow us in the first case to hold the camera of the raspberry pi perpendicular to the points, as well as to protect it and in the second case to place the sensor near the suction cup to calculate the distance to the object.
+
+![image](https://user-images.githubusercontent.com/65292012/118793111-9805f880-b898-11eb-924d-9e0c91551795.png)
 
 ## Code dependencies
 
