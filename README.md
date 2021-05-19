@@ -8,8 +8,11 @@ The available code and the 3d designs have been designed by the members of the R
 
 ## Project description
 SorterBot is a pick and place robot that through the use of a hydraulic pump and a suction cup is able to perform two functionalities which are to classify subject notes by their title and to sort them by the relevant date that appears in those notes.
+
 To perform the first functionality SorterBot implements computer vision by means of a camera that allows it to visualize the content of the notes. From the content it analyzes, it saves the information of the titles in order to classify them according to the subject to which they correspond. Also note that in case there are sheets that do not contain information on subjects or there are more subjects than available spaces, it classifies them in a separate set.
+
 The second functionality, as we have already mentioned, allows us to organize the notes of a subject by dates. For this SorterBot uses computer vision that allows it to visualize the content of the notes from which it extracts the date that appears at the top of the sheet. Once the date is obtained, it uses the Hanoi algorithm with which it groups the sheets in different blocks depending on whether they correspond to an older or more current date in order to place them in an orderly fashion.
+
 To highlight as contributions that It is a project that has a direct and wide application since it is automating a very frequent problem, the sorting of physical documents and their classification into different categories, thus allowing its use in any work or leisure environment and that Our robot differs from other pick & place robots[1] because it can apply different strategies and algorithms to classify and group documents. It should be noted that these strategies are based on the treatment of images of documents and on obtaining their information, thus allowing us to use it in any case where there is text, since it does not focus on the form but on the content.
 
 ## Electronic components
@@ -63,9 +66,12 @@ To highlight as contributions that It is a project that has a direct and wide ap
 ■ Servomotor Box
 
 The main part of SorterBot is the body which apart from being an important part as far as the weight distribution of the structure is concerned, is the part where the vacuum pump and the robot's computers are kept, which in this case are the arduino and the raspberry pi.
+
 In the body itself we find two buttons placed on its square base that allow us to select between the sorting algorithm (red button) and the organization (green button).
 Next to this body we find a rotational arm connected by 4 bars that allows us to increase the mobilization of the body in the axis of the and, in addition to perform a 360 degree angle by means of the servomotor that is incorporated in the servomotor box located on top of the arm.
+
 On top of this arm we find the piece that allows us to partially cover the prismatic arm as it moves along the z-axis, in addition to being the receiver of the flexible suction tube that is connected to the vacuum pump that goes from the base to the storage and generates the suction force of the suction cup [2]. It should be noted that this part allows us to create a vacuum zone.
+
 Finally we find the camera support attached to the rotational arm and the proximity sensor support attached to the prismatic arm.
 These two supports allow us in the first case to hold the camera of the raspberry pi perpendicular to the points, as well as to protect it and in the second case to place the sensor near the suction cup to calculate the distance to the object.
 
