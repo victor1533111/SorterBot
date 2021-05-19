@@ -73,7 +73,7 @@ These two supports allow us in the first case to hold the camera of the raspberr
 
 ## Code dependencies
 
--Tesseract OCR
+-Tesseract OCR (You can find it inside the code folder)
 
 -OpenCV
 
