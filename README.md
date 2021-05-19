@@ -86,7 +86,10 @@ These two supports allow us in the first case to hold the camera of the raspberr
 ## References
 
 [1] FANUC America Corporation (16 mar 2018). High Speed SCARA Robot for Pick & Place [YouTube]. https://youtu.be/-m1oKuFkSTE
+
 [2] How to Control Vacuum Pump Air Pump Suction for Robotic Arm (January 30, 2021). [Web Page]. https://create.arduino.cc/projecthub/ronfrtek/how-to-control-vacuum-pump-air-pump-suction-for-robotic-arm-5de318
+
 [3] Armesto, L. (12 feb 2020). Cómo Usar los Sensores de Proximidad para Permanecer entre Paredes [YouTube]. https://youtu.be/j4dMnAPZu70
+
 [4] Gitau, C. (2020, 11 enero). Fuzzy String Matching - Towards Data Science. Medium. https://towardsdatascience.com/fuzzy-string-matching-in-python
 
