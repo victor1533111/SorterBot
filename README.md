@@ -1,7 +1,8 @@
+
 # SorterBot 
 
 <p align="Left">
-<img src="https://user-images.githubusercontent.com/65292012/118952700-7110fa80-b95c-11eb-800a-e9edc427830c.gif" width="300" height="300" />
+<img src="https://user-images.githubusercontent.com/65292012/118978363-847d8f00-b977-11eb-9f00-556dfbc2a6cb.gif" width="300" height="300" />
  </p>
 
 
