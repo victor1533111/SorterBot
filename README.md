@@ -144,7 +144,7 @@ position of the robot
 
 <p align="Center">
 ![image](https://user-images.githubusercontent.com/65292012/118979010-4c2a8080-b978-11eb-9c8c-f233d9372193.png)
-                                   <h1 style="font-size:2px">Image 1: Clasification scenario.</h1>
+                                   <p style="color:red">This is a paragraph.</p>
  </p>
 
 These angles have been chosen because of the size of the sheets, otherwise the binders would collide.
