@@ -1,6 +1,6 @@
 # SorterBot 
 
-<p align="center">
+<p align="Left">
 <img src="https://user-images.githubusercontent.com/65292012/118952700-7110fa80-b95c-11eb-800a-e9edc427830c.gif" width="300" height="300" />
  </p>
 
