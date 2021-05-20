@@ -26,10 +26,10 @@
 * [Simulation Strategy and implementation ](#Simulation-Strategy-and-implementation )
 
 * [Tests](#Tests)
-  * [Title sorting test](#Title sorting test)
-  * [Data sorting test](#Data sorting test)
-  * [Sheet detection test](#Sheet detection test)
-  * [Sheet Orientation test](#Sheet Orientation test)
+  * [Title sorting test](#Title-sorting-test)
+  * [Data sorting test](#Data-sorting-test)
+  * [Sheet detection test](#Sheet-detection-test)
+  * [Sheet Orientation test](#Sheet-Orientation-test)
 
 * [Authors](#Authors )
 
