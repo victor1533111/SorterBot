@@ -158,7 +158,11 @@ In this scenario the robot is responsible for performing the classification algo
 Finally, add that the algorithm ends when it returns to the initial position and observes that there is no sheet of paper.
 
 ## Tests
-HOLA 
+To test the different algorithm modules of the Sorterbot, we have created 3 different scenarios and 4 different test.
+ * ## Title sorting test
+ * ## Data sorting test
+ * ## Sheet detection test
+ * ## Sheet Orientation test
 
 ## Authors
 Víctor Batista Medeiros - <a href="https://github.com/victor1533111">Github</a>
