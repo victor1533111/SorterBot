@@ -206,7 +206,8 @@ The test consists in calculate the total error, the sum of the absolute error of
 <img width="400" height="400" src="https://user-images.githubusercontent.com/65302766/119017392-409c8100-b99b-11eb-9bbd-1718b3decb79.png">
 
 
-As we can see in a sample of 20 sheets the sum of existing errors was below 1 degree.
+As we can see, in a sample of 20 sheets the sum of existing errors was below 1 degree.
+
 ## Authors
 Víctor Batista Medeiros - <a href="https://github.com/victor1533111">Github</a>
 
