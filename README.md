@@ -148,7 +148,7 @@ position of the robot.
 
 <p align="Center">
 
-<img width="400" height="200" src="https://user-images.githubusercontent.com/65292012/118979725-11751800-b979-11eb-81ad-5c93d13bfca4.png">
+<img width="400" height="250" src="https://user-images.githubusercontent.com/65292012/118979725-11751800-b979-11eb-81ad-5c93d13bfca4.png">
  </p>
 
 These angles have been chosen because of the size of the sheets, otherwise the binders would collide.
@@ -179,7 +179,7 @@ The algorithm of sorting data is divided into two phases:
 
 We make the abstraction of viewing the file cabinets with all their sheets as a stack with elements:
 <p align="Center">
-<img width="300" height="200" src="https://user-images.githubusercontent.com/65302766/119013207-10eb7a00-b997-11eb-99ed-f5b3560667ea.png">
+<img width="400" height="200" src="https://user-images.githubusercontent.com/65302766/119013207-10eb7a00-b997-11eb-99ed-f5b3560667ea.png">
  </p>
  <img width="600" height="600" src="https://user-images.githubusercontent.com/65302766/119014171-fcf44800-b997-11eb-86e0-70f09280ec8c.png">
  
