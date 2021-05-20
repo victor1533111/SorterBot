@@ -173,8 +173,7 @@ We make the abstraction of viewing the file cabinets with all their sheets as a 
 <p align="Center">
 <img width="500" height="200" src="https://user-images.githubusercontent.com/65302766/119013207-10eb7a00-b997-11eb-99ed-f5b3560667ea.png">
  </p>
-
- <img width="600" height="600" src="https://user-images.githubusercontent.com/65302766/119013869-b30b6200-b997-11eb-9058-7726ac5c4ff7.png">
+ <img width="600" height="600" src="https://user-images.githubusercontent.com/65302766/119014171-fcf44800-b997-11eb-86e0-70f09280ec8c.png">
 
 ## Authors
 Víctor Batista Medeiros - <a href="https://github.com/victor1533111">Github</a>
