@@ -156,7 +156,7 @@ Also note that the angle -45 is reserved for the orientation of the leaves, othe
 
 <p align="Center">
 
-<img width="200" height="200" src="https://user-images.githubusercontent.com/65292012/118980137-77619f80-b979-11eb-99a2-95c18c6406aa.png">
+<img width="200" height="300" src="https://user-images.githubusercontent.com/65292012/118980137-77619f80-b979-11eb-99a2-95c18c6406aa.png">
  </p>
 In this scenario the robot is responsible for performing the classification algorithm for which it takes each sheet independently by using the proximity sensor that allows us to stop the arm before colliding with the sheets,  and takes them to the orientation angle to see whether or not it is necessary to rotate them. Once the sheet is well oriented, the extraction of the text and identification of the title is carried out and then, by means of a strategy of percentage [4] of appearance and similarity of words, it is placed in a filing cabinet or other. If there is no subject associated with the sheet, an empty file cabinet will be found to place it, and if there are no file cabinets, it will be placed in the file cabinet located at 180 degrees.
 Finally, add that the algorithm ends when it returns to the initial position and observes that there is no sheet of paper.
@@ -170,7 +170,7 @@ This text is performed in the second scenario in this case the
 sheets are already classified in their respective filing cabinets as shown in the
 following image:
 <p align="Center">
- <img width="400" height="400" src="https://user-images.githubusercontent.com/65302766/119014737-8f94e700-b998-11eb-9f71-baca90708c64.png">
+ <img width="200" height="300" src="https://user-images.githubusercontent.com/65302766/119014737-8f94e700-b998-11eb-9f71-baca90708c64.png">
  </p>
 In this scenario we perform the sorting algorithm for which the robot goes to each file cabinet, in a set order, and sorts the sheets by helping the two nearby file cabinets to perform the same.
 The algorithm of sorting data is divided into two phases:
@@ -181,7 +181,7 @@ We make the abstraction of viewing the file cabinets with all their sheets as a 
 <p align="Center">
 <img width="500" height="200" src="https://user-images.githubusercontent.com/65302766/119013207-10eb7a00-b997-11eb-99ed-f5b3560667ea.png">
  </p>
- <img width="200" height="200" src="https://user-images.githubusercontent.com/65302766/119014171-fcf44800-b997-11eb-86e0-70f09280ec8c.png">
+ <img width="600" height="600" src="https://user-images.githubusercontent.com/65302766/119014171-fcf44800-b997-11eb-86e0-70f09280ec8c.png">
  
 The test itself consists of storing the result of the sorting in a list along the total sorting of all file cabinets.
 Finally it is compared with the expected result to see if the sorting has been done correctly.
