@@ -103,15 +103,15 @@ These two supports allow us in the first case to hold the camera of the raspberr
 
 ## Code dependencies
 
-- Tesseract OCR (pipenv , Pillow , pythonRLSA )
+-Tesseract OCR (pipenv , Pillow , pythonRLSA )
 
-- OpenCV
+-OpenCV
 
-- Jupyter
+-Jupyter
 
-- CoppeliaSim
+-CoppeliaSim
 
-- Fuzzywuzzy
+-Fuzzywuzzy
 
 
 * ## Instalation and uses
