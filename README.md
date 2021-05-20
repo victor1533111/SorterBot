@@ -165,7 +165,15 @@ Finally, add that the algorithm ends when it returns to the initial position and
 To test the different algorithm modules of the Sorterbot, we have created 3 different scenarios and 4 different test.
  * ## Title sorting test
  * ## Data sorting test 
-It is divided into two phases:
+
+This text is performed in the second scenario in this case the
+sheets are already classified in their respective filing cabinets as shown in the
+following image:
+<p align="Center">
+ <img width="400" height="400" src="https://user-images.githubusercontent.com/65302766/119014737-8f94e700-b998-11eb-9f71-baca90708c64.png">
+ </p>
+In this scenario we perform the sorting algorithm for which the robot goes to each file cabinet, in a set order, and sorts the sheets by helping the two nearby file cabinets to perform the same.
+The algorithm of sorting data is divided into two phases:
 1. Read dates: Reads all dates from the stack, storing in an auxiliary angle.
 2. Stack Sort Algorithm: Proceeds to sort the sheets, using a maximum of two binders and leaving them in a third one, which corresponds to the binder where the stack to be sorted was.
 
@@ -174,7 +182,10 @@ We make the abstraction of viewing the file cabinets with all their sheets as a 
 <img width="500" height="200" src="https://user-images.githubusercontent.com/65302766/119013207-10eb7a00-b997-11eb-99ed-f5b3560667ea.png">
  </p>
  <img width="600" height="600" src="https://user-images.githubusercontent.com/65302766/119014171-fcf44800-b997-11eb-86e0-70f09280ec8c.png">
-
+ 
+The test itself consists of storing the result of the sorting in a list along the total sorting of all file cabinets.
+Finally it is compared with the expected result to see if the sorting has been done correctly.
+This test is useful to detect errors in the camera, the sorting algorithm and the general and functional operation of the MVP.
 ## Authors
 Víctor Batista Medeiros - <a href="https://github.com/victor1533111">Github</a>
 
