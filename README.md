@@ -1,16 +1,26 @@
 # SorterBot 
 
 ## Table of contents
-[Repository Introduction](#Repository-Introduction)
-[Project description](#Project-description)
+1. [Repository Introduction](#Repository-Introduction)
+
+2. [Project description](#Project-description)
+
 [Electronic components](#Electronic-components)
+
 [Hardware Scheme ](#Hardware-Scheme )
+
 [Extra components and 3D pieces](#Extra-components-and-3D-pieces )
+
 [Software Architecture ](#Software-Architecture )
+
 [Code dependencies](#Code-dependencies )
+
 [Simulation Strategy and implementation ](#Simulation-Strategy-and-implementation )
+
 [Tests](#Tests)
+
 [Authors](#Authors )
+
 [References](#References)
 
 ## Repository Introduction
