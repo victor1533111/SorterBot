@@ -105,7 +105,8 @@ These two supports allow us in the first case to hold the camera of the raspberr
 
 ## Software Architecture
 <p align="center">
- <img width="600" height="600" src="https://user-images.githubusercontent.com/65292012/118792813-4c534f00-b898-11eb-949b-dbbe1c49e3cd.png">
+ <img width="600" height="600" src="https://user-images.githubusercontent.com/65292012/118979538-db379880-b978-11eb-895c-62bef43e3453.png">
+                                   <p style="color:red">This is a paragraph.</p>
  </p>
   
 
