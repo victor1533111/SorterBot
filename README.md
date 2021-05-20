@@ -173,9 +173,11 @@ following image:
  <img width="400" height="250" src="https://user-images.githubusercontent.com/65302766/119014737-8f94e700-b998-11eb-9f71-baca90708c64.png">
  </p>
 In this scenario we perform the sorting algorithm for which the robot goes to each file cabinet, in a set order, and sorts the sheets by helping the two nearby file cabinets to perform the same.
+
 The algorithm of sorting data is divided into two phases:<br />
 1. Read dates: Reads all dates from the stack, storing in an auxiliary angle.<br />
 2. Stack Sort Algorithm: Proceeds to sort the sheets, using a maximum of two binders and leaving them in a third one, which corresponds to the binder where the stack to be sorted was.
+
 
 We make the abstraction of viewing the file cabinets with all their sheets as a stack with elements:
 <p align="Center">
