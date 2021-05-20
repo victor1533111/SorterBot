@@ -188,6 +188,8 @@ Finally it is compared with the expected result to see if the sorting has been d
 This test is useful to detect errors in the camera, the sorting algorithm and the general and functional operation of the MVP.
 
  * ## Sheet detection test
+This test is performed in scenario 2 aswell.
+The purpose of this test is to check that when there is an empty tray, the robot ignores this tray and continues with the sorting.
  * ## Sheet Orientation test
 
 ## Authors
