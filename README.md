@@ -90,7 +90,7 @@ These two supports allow us in the first case to hold the camera of the raspberr
 
 -CoppeliaSim
 
-### *  Instalation and uses
+* ## Instalation and uses
 
 ## Simulation Strategy and implementation
 
