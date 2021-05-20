@@ -128,6 +128,26 @@ These two supports allow us in the first case to hold the camera of the raspberr
 
 ## Simulation Strategy and implementation
 
+To simulate the project the first thing we do is to define the 3D design of the robot
+using the TinkerCad application.
+Once the design is done we export it in MTL format to be able to import it into the
+Coppelia Sim platform keeping its colors.
+In this platform we add the pertinent links that correspond to the servomotors of
+our robot and we add a sensor to be able to visualize objects and another sensor to
+detect the proximity[3] to these.
+Once the robot is assembled we have defined several scenarios both for the
+realization of the algorithms and for testing.
+The first of them is a scenario in which we have defined a work table, a set of 6 file
+cabinets that are at the following angles 45,90,-90,120,-120,150,-150,180, and a series
+of sheets containing information of various subjects that are oriented at the zero
+position of the robot
+
+![image](https://user-images.githubusercontent.com/65292012/118979010-4c2a8080-b978-11eb-9c8c-f233d9372193.png)
+                                   Image 1: Clasification scenario.
+
+These angles have been chosen because of the size of the sheets, otherwise the binders would collide.
+
+
 ## Tests
 
 
