@@ -1,27 +1,27 @@
 # SorterBot 
 
 ## Table of contents
-1. [Repository Introduction](#Repository-Introduction)
+* [Repository Introduction](#Repository-Introduction)
 
-2. [Project description](#Project-description)
+* [Project description](#Project-description)
 
-[Electronic components](#Electronic-components)
+* [Electronic components](#Electronic-components)
 
-[Hardware Scheme ](#Hardware-Scheme )
+* [Hardware Scheme ](#Hardware-Scheme )
 
-[Extra components and 3D pieces](#Extra-components-and-3D-pieces )
+* [Extra components and 3D pieces](#Extra-components-and-3D-pieces )
 
-[Software Architecture ](#Software-Architecture )
+* [Software Architecture ](#Software-Architecture )
 
-[Code dependencies](#Code-dependencies )
+* [Code dependencies](#Code-dependencies )
 
-[Simulation Strategy and implementation ](#Simulation-Strategy-and-implementation )
+* [Simulation Strategy and implementation ](#Simulation-Strategy-and-implementation )
 
-[Tests](#Tests)
+* [Tests](#Tests)
 
-[Authors](#Authors )
+* [Authors](#Authors )
 
-[References](#References)
+* [References](#References)
 
 ## Repository Introduction
 This repository contains all the software modules, all the 3d files and the scenarios that make up our robotics project.
