@@ -193,7 +193,16 @@ This test is useful to detect errors in the camera, the sorting algorithm and th
 This test is performed in scenario 2 aswell.
 The purpose of this test is to check that when there is an empty tray, the robot ignores this tray and continues with the sorting.
  * ## Sheet Orientation test
+In this case the test belongs to the third scenario which consist in only one filing cabinet in position -90 and a pile of misguided sheets as shown in the following image:
+<p align="Center">
+<img width="400" height="250" src="https://user-images.githubusercontent.com/65302766/119017106-f0252380-b99a-11eb-8a31-9ce6c2cbdb88.png">
+</p>
+In this scenario we test the orientation algorithm for which the robot picks a sheet from the origin pile, then it moves it to orientation -45 where aren’t any noises, there the camera takes a photo of the sheet. Finaly we use computer vision techniques to take the longest line in the image corresponding to the sheet’s heigh, we detect angle of that line and then we proceed to correctly orientate it and place it in the filing cabinet.
 
+
+The test consists in calculate the total error, the sum of the absolute error of all the sheets after being properly orientated.
+<img width="600" height="500" src="https://user-images.githubusercontent.com/65302766/119017392-409c8100-b99b-11eb-9bbd-1718b3decb79.png">
+As we can see in a sample of 20 sheets the sum of existing errors was below 1 degree.
 ## Authors
 Víctor Batista Medeiros - <a href="https://github.com/victor1533111">Github</a>
 
