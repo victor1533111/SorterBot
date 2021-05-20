@@ -181,7 +181,7 @@ We make the abstraction of viewing the file cabinets with all their sheets as a 
 <p align="Center">
 <img width="400" height="200" src="https://user-images.githubusercontent.com/65302766/119013207-10eb7a00-b997-11eb-99ed-f5b3560667ea.png">
  </p>
- <img width="600" height="600" src="https://user-images.githubusercontent.com/65302766/119014171-fcf44800-b997-11eb-86e0-70f09280ec8c.png">
+ <img width="500" height="500" src="https://user-images.githubusercontent.com/65302766/119014171-fcf44800-b997-11eb-86e0-70f09280ec8c.png">
  
 The test itself consists of storing the result of the sorting in a list along the total sorting of all file cabinets.
 Finally it is compared with the expected result to see if the sorting has been done correctly.
