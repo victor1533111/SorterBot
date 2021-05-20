@@ -161,17 +161,7 @@ Also note that the angle -45 is reserved for the orientation of the leaves, othe
 In this scenario the robot is responsible for performing the classification algorithm for which it takes each sheet independently by using the proximity sensor that allows us to stop the arm before colliding with the sheets,  and takes them to the orientation angle to see whether or not it is necessary to rotate them. Once the sheet is well oriented, the extraction of the text and identification of the title is carried out and then, by means of a strategy of percentage [4] of appearance and similarity of words, it is placed in a filing cabinet or other. If there is no subject associated with the sheet, an empty file cabinet will be found to place it, and if there are no file cabinets, it will be placed in the file cabinet located at 180 degrees.
 Finally, add that the algorithm ends when it returns to the initial position and observes that there is no sheet of paper.
 
-## Tests
-To test the different algorithm modules of the Sorterbot, we have created 3 different scenarios and 4 different test.
- * ## Title sorting test
-In this scenario we have a series of sheets with titles with different characteristics such as different sizes, numbers, strange symbols... In this case this scenario is used to perform the title test in which the correct extraction of these titles will be checked with the corresponding elimination of elements that do not provide information. To evaluate the robustness of this title, the comparison of similarity with the correct titles is applied to make the sum of the percentages of similarity error.
-
-It should be noted that the results obtained for this test have a 1.5 percent error rate.
- * ## Data sorting test 
-
-This text is performed in the second scenario in this case the
-sheets are already classified in their respective filing cabinets as shown in the
-following image:
+As a second scenario we have used the same as the previous one but in this case the sheets are already classified in their respective filing cabinets as shown in the following image:
 <p align="Center">
  <img width="400" height="250" src="https://user-images.githubusercontent.com/65302766/119014737-8f94e700-b998-11eb-9f71-baca90708c64.png">
  </p>
@@ -181,13 +171,19 @@ The algorithm of sorting data is divided into two phases:<br />
 1. Read dates: Reads all dates from the stack, storing in an auxiliary angle.<br />
 2. Stack Sort Algorithm: Proceeds to sort the sheets, using a maximum of two binders and leaving them in a third one, which corresponds to the binder where the stack to be sorted was.
 
-
 We make the abstraction of viewing the file cabinets with all their sheets as a stack with elements:
 <p align="Center">
 <img width="350" height="350" src="https://user-images.githubusercontent.com/65302766/119013207-10eb7a00-b997-11eb-99ed-f5b3560667ea.png">
 <img width="350" height="350" src="https://user-images.githubusercontent.com/65302766/119014171-fcf44800-b997-11eb-86e0-70f09280ec8c.png">
  </p>
- 
+
+## Tests
+To test the different algorithm modules of the Sorterbot, we have created 3 different scenarios and 4 different test.
+ * ## Title sorting test
+In this scenario we have a series of sheets with titles with different characteristics such as different sizes, numbers, strange symbols... In this case this scenario is used to perform the title test in which the correct extraction of these titles will be checked with the corresponding elimination of elements that do not provide information. To evaluate the robustness of this title, the comparison of similarity with the correct titles is applied to make the sum of the percentages of similarity error.
+
+It should be noted that the results obtained for this test have a 1.5 percent error rate.
+ * ## Data sorting test  
  
 The test itself consists of storing the result of the sorting in a list along the total sorting of all file cabinets.
 Finally it is compared with the expected result to see if the sorting has been done correctly.
