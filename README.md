@@ -82,7 +82,7 @@ These two supports allow us in the first case to hold the camera of the raspberr
 
 ## Code dependencies
 
--Tesseract OCR (You can find it inside the code folder)
+-Tesseract OCR (pipenv , Pillow , pythonRLSA )
 
 -OpenCV
 
@@ -90,7 +90,12 @@ These two supports allow us in the first case to hold the camera of the raspberr
 
 -CoppeliaSim
 
+-Fuzzywuzzy
+
+
 * ## Instalation and uses
+The first thing to do is to install tesseract, to do this you have to access the code folder and run the tesseract application, once run just select the next option until the last tab where you have to select finish. Important not to change the installation path since it will be the one used in the execution of the code.
+With respect to the rest of dependencies it is necessary to accede to the program and to change the second block of code of markdown to code and to execute it.
 
 ## Simulation Strategy and implementation
 
