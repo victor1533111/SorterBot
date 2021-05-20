@@ -125,11 +125,11 @@ These two supports allow us in the first case to hold the camera of the raspberr
 
 
 ## Authors
-Victor Batista Medeiros - <a href="https://github.com/victor1533111">Github</a>
+Víctor Batista Medeiros - <a href="https://github.com/victor1533111">Github</a>
 
 Carlos Peña de Pedro - <a href="https://github.com/CarlosPenaDePedro">Github</a>
 
-Cristian Gutierrez - <a href="https://github.com/cristiangutierrz">Github</a>
+Cristian Gutiérrez Gómez - <a href="https://github.com/cristiangutierrz">Github</a>
 
 ## References
 
