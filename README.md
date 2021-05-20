@@ -125,8 +125,11 @@ These two supports allow us in the first case to hold the camera of the raspberr
 
 ## Authors
 Victor Batista Medeiros - <a href="https://github.com/victor1533111">Github</a>
+
 Carlos Peña de Pedro - <a href="https://github.com/CarlosPenaDePedro">Github</a>
+
 Cristian Gutierrez - <a href="https://github.com/cristiangutierrz">Github</a>
+
 ## References
 
 [1] FANUC America Corporation (16 mar 2018). High Speed SCARA Robot for Pick & Place [YouTube]. https://youtu.be/-m1oKuFkSTE
