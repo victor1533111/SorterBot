@@ -105,8 +105,7 @@ These two supports allow us in the first case to hold the camera of the raspberr
 
 ## Software Architecture
 <p align="center">
- <img width="600" height="600" src="https://user-images.githubusercontent.com/65292012/118979538-db379880-b978-11eb-895c-62bef43e3453.png">
-                                   <p style="color:red">This is a paragraph.</p>
+ <img width="600" height="600" src="https://user-images.githubusercontent.com/65292012/118979839-3073aa00-b979-11eb-80d1-030a6b00e1c8.png">
  </p>
   
 
@@ -143,8 +142,9 @@ cabinets that are at the following angles 45,90,-90,120,-120,150,-150,180, and a
 of sheets containing information of various subjects that are oriented at the zero
 position of the robot
 
-<p align="Center">
-![image](https://user-images.githubusercontent.com/65292012/118979010-4c2a8080-b978-11eb-9c8c-f233d9372193.png)
+<p align="Center">![sw esquema](https://user-images.githubusercontent.com/65292012/118979828-2ce02300-b979-11eb-8832-07bf10500509.png)
+
+<img width="300" height="300" src="https://user-images.githubusercontent.com/65292012/118979725-11751800-b979-11eb-81ad-5c93d13bfca4.png">
  </p>
 
 These angles have been chosen because of the size of the sheets, otherwise the binders would collide.
