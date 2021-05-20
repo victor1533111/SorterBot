@@ -14,7 +14,7 @@
 * [Software Architecture ](#Software-Architecture )
 
 * [Code dependencies](#Code-dependencies )
-*  * [Instalation and uses](#Instalation-and-uses )
+  * [Instalation and uses](#Instalation-and-uses )
 
 * [Simulation Strategy and implementation ](#Simulation-Strategy-and-implementation )
 
