@@ -161,6 +161,7 @@ Also note that the angle -45 is reserved for the orientation of the leaves, othe
 In this scenario the robot is responsible for performing the classification algorithm for which it takes each sheet independently by using the proximity sensor that allows us to stop the arm before colliding with the sheets,  and takes them to the orientation angle to see whether or not it is necessary to rotate them. Once the sheet is well oriented, the extraction of the text and identification of the title is carried out and then, by means of a strategy of percentage [4] of appearance and similarity of words, it is placed in a filing cabinet or other. If there is no subject associated with the sheet, an empty file cabinet will be found to place it, and if there are no file cabinets, it will be placed in the file cabinet located at 180 degrees.
 Finally, add that the algorithm ends when it returns to the initial position and observes that there is no sheet of paper.
 
+
 As a second scenario we have used the same as the previous one but in this case the sheets are already classified in their respective filing cabinets as shown in the following image:
 <p align="Center">
  <img width="400" height="250" src="https://user-images.githubusercontent.com/65302766/119014737-8f94e700-b998-11eb-9f71-baca90708c64.png">
