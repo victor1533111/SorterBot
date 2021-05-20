@@ -144,7 +144,7 @@ realization of the algorithms and for testing.
 The first of them is a scenario in which we have defined a work table, a set of 6 file
 cabinets that are at the following angles 45,90,-90,120,-120,150,-150,180, and a series
 of sheets containing information of various subjects that are oriented at the zero
-position of the robot
+position of the robot.
 
 <p align="Center">
 
@@ -170,7 +170,7 @@ This text is performed in the second scenario in this case the
 sheets are already classified in their respective filing cabinets as shown in the
 following image:
 <p align="Center">
- <img width="200" height="200" src="https://user-images.githubusercontent.com/65302766/119014737-8f94e700-b998-11eb-9f71-baca90708c64.png">
+ <img width="400" height="250" src="https://user-images.githubusercontent.com/65302766/119014737-8f94e700-b998-11eb-9f71-baca90708c64.png">
  </p>
 In this scenario we perform the sorting algorithm for which the robot goes to each file cabinet, in a set order, and sorts the sheets by helping the two nearby file cabinets to perform the same.
 The algorithm of sorting data is divided into two phases:
@@ -179,7 +179,7 @@ The algorithm of sorting data is divided into two phases:
 
 We make the abstraction of viewing the file cabinets with all their sheets as a stack with elements:
 <p align="Center">
-<img width="400" height="250" src="https://user-images.githubusercontent.com/65302766/119013207-10eb7a00-b997-11eb-99ed-f5b3560667ea.png">
+<img width="300" height="200" src="https://user-images.githubusercontent.com/65302766/119013207-10eb7a00-b997-11eb-99ed-f5b3560667ea.png">
  </p>
  <img width="600" height="600" src="https://user-images.githubusercontent.com/65302766/119014171-fcf44800-b997-11eb-86e0-70f09280ec8c.png">
  
