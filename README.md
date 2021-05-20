@@ -164,7 +164,17 @@ Finally, add that the algorithm ends when it returns to the initial position and
 ## Tests
 To test the different algorithm modules of the Sorterbot, we have created 3 different scenarios and 4 different test.
  * ## Title sorting test
- * ## Data sorting test
+ * ## Data sorting test 
+It is divided into two phases:
+1. Read dates: Reads all dates from the stack, storing in an auxiliary angle.
+2. Stack Sort Algorithm: Proceeds to sort the sheets, using a maximum of two binders and leaving them in a third one, which corresponds to the binder where the stack to be sorted was.
+
+We make the abstraction of viewing the file cabinets with all their sheets as a stack with elements:
+<p align="Center">
+<img width="200" height="200" src="https://user-images.githubusercontent.com/65302766/119013207-10eb7a00-b997-11eb-99ed-f5b3560667ea.png">
+ </p>
+
+
  * ## Sheet detection test
  * ## Sheet Orientation test
 
