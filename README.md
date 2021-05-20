@@ -1,7 +1,7 @@
 # SorterBot 
 
 ## Table of contents
-[create an anchor](##Code-dependencies)
+[create an anchor](#Code-dependencies)
 
 
 ## Repository Introduction
