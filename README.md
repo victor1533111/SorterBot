@@ -171,7 +171,7 @@ It is divided into two phases:
 
 We make the abstraction of viewing the file cabinets with all their sheets as a stack with elements:
 <p align="Center">
-<img width="200" height="200" src="https://user-images.githubusercontent.com/65302766/119013207-10eb7a00-b997-11eb-99ed-f5b3560667ea.png">
+<img width="500" height="200" src="https://user-images.githubusercontent.com/65302766/119013207-10eb7a00-b997-11eb-99ed-f5b3560667ea.png">
  </p>
 
 
