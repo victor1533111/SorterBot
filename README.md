@@ -144,7 +144,7 @@ position of the robot
 
 <p align="Center">
 
-<img width="200" height="400" src="https://user-images.githubusercontent.com/65292012/118979725-11751800-b979-11eb-81ad-5c93d13bfca4.png">
+<img width="400" height="200" src="https://user-images.githubusercontent.com/65292012/118979725-11751800-b979-11eb-81ad-5c93d13bfca4.png">
  </p>
 
 These angles have been chosen because of the size of the sheets, otherwise the binders would collide.
