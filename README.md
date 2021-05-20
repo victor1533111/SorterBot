@@ -184,8 +184,8 @@ The algorithm of sorting data is divided into two phases:<br />
 
 We make the abstraction of viewing the file cabinets with all their sheets as a stack with elements:
 <p align="Center">
-<img width="300" height="300" src="https://user-images.githubusercontent.com/65302766/119013207-10eb7a00-b997-11eb-99ed-f5b3560667ea.png">
-<img width="300" height="300" src="https://user-images.githubusercontent.com/65302766/119014171-fcf44800-b997-11eb-86e0-70f09280ec8c.png">
+<img width="350" height="350" src="https://user-images.githubusercontent.com/65302766/119013207-10eb7a00-b997-11eb-99ed-f5b3560667ea.png">
+<img width="350" height="350" src="https://user-images.githubusercontent.com/65302766/119014171-fcf44800-b997-11eb-86e0-70f09280ec8c.png">
  </p>
  
  
