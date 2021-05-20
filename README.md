@@ -142,13 +142,20 @@ cabinets that are at the following angles 45,90,-90,120,-120,150,-150,180, and a
 of sheets containing information of various subjects that are oriented at the zero
 position of the robot
 
-<p align="Center">![sw esquema](https://user-images.githubusercontent.com/65292012/118979828-2ce02300-b979-11eb-8832-07bf10500509.png)
+<p align="Center">
 
-<img width="300" height="300" src="https://user-images.githubusercontent.com/65292012/118979725-11751800-b979-11eb-81ad-5c93d13bfca4.png">
+<img width="200" height="200" src="https://user-images.githubusercontent.com/65292012/118979725-11751800-b979-11eb-81ad-5c93d13bfca4.png">
  </p>
 
 These angles have been chosen because of the size of the sheets, otherwise the binders would collide.
+Also note that the angle -45 is reserved for the orientation of the leaves, otherwise it could be the case that there are two leaves in which the top one is well oriented and the bottom one is badly oriented and consequently an erroneous calculation would be made as shown in the following image:
 
+<p align="Center">
+
+<img width="200" height="200" src="https://user-images.githubusercontent.com/65292012/118980137-77619f80-b979-11eb-99a2-95c18c6406aa.png">
+ </p>
+In this scenario the robot is responsible for performing the classification algorithm for which it takes each sheet independently by using the proximity sensor that allows us to stop the arm before colliding with the sheets,  and takes them to the orientation angle to see whether or not it is necessary to rotate them. Once the sheet is well oriented, the extraction of the text and identification of the title is carried out and then, by means of a strategy of percentage [4] of appearance and similarity of words, it is placed in a filing cabinet or other. If there is no subject associated with the sheet, an empty file cabinet will be found to place it, and if there are no file cabinets, it will be placed in the file cabinet located at 180 degrees.
+Finally, add that the algorithm ends when it returns to the initial position and observes that there is no sheet of paper.
 
 ## Tests
 
