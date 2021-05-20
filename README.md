@@ -1,7 +1,7 @@
 # SorterBot 
 
 ## Table of contents
-[Repository Introduction](# Repository Introduction)
+[Go to Repository Introduction](## Repository Introduction)
 
 ## Repository Introduction
 This repository contains all the software modules, all the 3d files and the scenarios that make up our robotics project.
