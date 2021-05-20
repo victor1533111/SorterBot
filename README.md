@@ -1,5 +1,9 @@
 # SorterBot 
 
+<p align="center">
+![gif rlp](https://user-images.githubusercontent.com/65292012/118952700-7110fa80-b95c-11eb-800a-e9edc427830c.gif)
+</p>
+
 ## Table of contents
 * [Repository Introduction](#Repository-Introduction)
 
