@@ -1,7 +1,7 @@
 # SorterBot 
 
 ## Table of contents
-[Repository Introduction](##Code dependencies)
+<a href="## Code dependencies">Visit W3Schools</a>
 
 ## Repository Introduction
 This repository contains all the software modules, all the 3d files and the scenarios that make up our robotics project.
