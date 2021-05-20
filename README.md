@@ -142,8 +142,10 @@ cabinets that are at the following angles 45,90,-90,120,-120,150,-150,180, and a
 of sheets containing information of various subjects that are oriented at the zero
 position of the robot
 
+<p align="Center">
 ![image](https://user-images.githubusercontent.com/65292012/118979010-4c2a8080-b978-11eb-9c8c-f233d9372193.png)
-                                   Image 1: Clasification scenario.
+                                   <p style="font-size:2px" >Image 1: Clasification scenario.</p>
+ </p>
 
 These angles have been chosen because of the size of the sheets, otherwise the binders would collide.
 
