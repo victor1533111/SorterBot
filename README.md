@@ -188,10 +188,12 @@ It should be noted that the results obtained for this test have a 1.5 percent er
 The test itself consists of storing the result of the sorting in a list along the total sorting of all file cabinets.
 Finally it is compared with the expected result to see if the sorting has been done correctly.
 This test is useful to detect errors in the camera, the sorting algorithm and the general and functional operation of the MVP.
+As a result, we have obtained the correct identification and conversion of all the dates
 
  * ## Sheet detection test
 This test is performed in scenario 2 aswell.
 The purpose of this test is to check that when there is an empty tray, the robot ignores this tray and continues with the sorting.
+As results we have not obtained any problem in this test and its correct resolution has been performed.
  * ## Sheet Orientation test
 In this case the test belongs to the third scenario which consist in only one filing cabinet in position -90 and a pile of misguided sheets as shown in the following image:
 <p align="Center">
