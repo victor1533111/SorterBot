@@ -180,7 +180,7 @@ We make the abstraction of viewing the file cabinets with all their sheets as a 
 ## Tests
 To test the different algorithm modules of the Sorterbot, we have created 3 different scenarios and 4 different test.
  * ## Title sorting test
-In this scenario we have a series of sheets with titles with different characteristics such as different sizes, numbers, strange symbols... In this case this scenario is used to perform the title test in which the correct extraction of these titles will be checked with the corresponding elimination of elements that do not provide information. To evaluate the robustness of this title, the comparison of similarity with the correct titles is applied to make the sum of the percentages of similarity error.
+In this scenario we have a series of sheets with titles with different characteristics such as different sizes, numbers, strange symbols... In this case the scenario that we use is the second scenario and it is used to perform the title test in which the correct extraction of these titles will be checked with the corresponding elimination of elements that do not provide information. To evaluate the robustness of this title, the comparison of similarity with the correct titles is applied to make the sum of the percentages of similarity error.
 
 It should be noted that the results obtained for this test have a 1.5 percent error rate.
  * ## Data sorting test  
