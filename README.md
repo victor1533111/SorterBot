@@ -9,30 +9,20 @@
 
 ## Table of contents
 * [Repository Introduction](#Repository-Introduction)
-
 * [Project description](#Project-description)
-
 * [Electronic components](#Electronic-components)
-
 * [Hardware Scheme ](#Hardware-Scheme )
-
 * [Extra components and 3D pieces](#Extra-components-and-3D-pieces )
-
 * [Software Architecture ](#Software-Architecture )
-
 * [Code dependencies](#Code-dependencies )
   * [Instalation and uses](#Instalation-and-uses )
-
 * [Simulation Strategy and implementation ](#Simulation-Strategy-and-implementation )
-
 * [Tests](#Tests)
   * [Title sorting test](#Title-sorting-test)
   * [Data sorting test](#Data-sorting-test)
   * [Sheet detection test](#Sheet-detection-test)
   * [Sheet Orientation test](#Sheet-Orientation-test)
-
 * [Authors](#Authors )
-
 * [References](#References)
 
 ## Repository Introduction
