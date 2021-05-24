@@ -9,13 +9,13 @@
 
 ## Table of contents
 * [Repository Introduction](#Repository-Introduction)
+* [Code dependencies](#Code-dependencies )
+  * [Instalation and uses](#Instalation-and-uses )
 * [Project description](#Project-description)
 * [Electronic components](#Electronic-components)
 * [Hardware Scheme ](#Hardware-Scheme )
 * [Extra components and 3D pieces](#Extra-components-and-3D-pieces )
 * [Software Architecture ](#Software-Architecture )
-* [Code dependencies](#Code-dependencies )
-  * [Instalation and uses](#Instalation-and-uses )
 * [Simulation Strategy and implementation ](#Simulation-Strategy-and-implementation )
 * [Tests](#Tests)
   * [Title sorting test](#Title-sorting-test)
