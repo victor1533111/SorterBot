@@ -50,7 +50,7 @@ The available code and the 3d designs have been designed by the members of the R
    
    2. accede al jupyter notebook y ejecuta todos los bloques.
   
-      3.Te aparecerá un recuadro con dos botones, clica el botón en función del escenario que hayas escogido
+    3.Te aparecerá un recuadro con dos botones, clica el botón en función del escenario que hayas escogido
 
 ## Project description
 SorterBot is a pick and place robot that through the use of a hydraulic pump and a suction cup is able to perform two functionalities which are to classify subject notes by their title and to sort them by the relevant date that appears in those notes.
