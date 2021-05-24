@@ -45,6 +45,10 @@ The available code and the 3d designs have been designed by the members of the R
    * ## Instalation and uses
    The first thing to do is to install tesseract, to do this you have to access the code folder and run the tesseract application, once run just select the next option until the    last tab where you have to select finish. Important not to change the installation path since it will be the one used in the execution of the code.
    With respect to the rest of dependencies it is necessary to accede to the program and to change the second block of code of markdown to code and to execute it.
+   Una vez instalados los requisitos realiza los siguientes pasos:
+   1. abre el programa del coppeliasim con el escenario que deseas ejecutar. 
+   2. accede al jupyter notebook y ejecuta todos los bloques.
+   3.Te aparecerá un recuadro con dos botones, clica el botón en función del escenario que hayas escogido
 
 ## Project description
 SorterBot is a pick and place robot that through the use of a hydraulic pump and a suction cup is able to perform two functionalities which are to classify subject notes by their title and to sort them by the relevant date that appears in those notes.
