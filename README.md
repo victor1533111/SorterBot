@@ -22,6 +22,7 @@
   * [Data sorting test](#Data-sorting-test)
   * [Sheet detection test](#Sheet-detection-test)
   * [Sheet Orientation test](#Sheet-Orientation-test)
+* [Contributions](#Contributions)
 * [Authors](#Authors )
 * [References](#References)
 
@@ -204,6 +205,9 @@ The test consists in calculate the total error, the sum of the absolute error of
 
 
 As we can see, in a sample of 20 sheets the sum of existing errors was below 1 degree.
+
+## Contributions
+This is open source, any contribution is welcome. 
 
 ## Authors
 Víctor Batista Medeiros - <a href="https://github.com/victor1533111">Github</a>
