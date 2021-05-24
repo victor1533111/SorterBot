@@ -47,7 +47,9 @@ The available code and the 3d designs have been designed by the members of the R
    With respect to the rest of dependencies it is necessary to accede to the program and to change the second block of code of markdown to code and to execute it.
    Una vez instalados los requisitos realiza los siguientes pasos:
    1. abre el programa del coppeliasim con el escenario que deseas ejecutar. 
+   
    2. accede al jupyter notebook y ejecuta todos los bloques.
+  
    3.Te aparecerá un recuadro con dos botones, clica el botón en función del escenario que hayas escogido
 
 ## Project description
