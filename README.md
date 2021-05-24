@@ -29,6 +29,23 @@
 This repository contains all the software modules, all the 3d files and the scenarios that make up our robotics project.
 The available code and the 3d designs have been designed by the members of the RPL 2020-2021 group of computer engineering of the UAB formed by Cristian Gutiérrez, Carlos Peña and Víctor Batista and directed by the tutors Luis Vilariano and Carlos García.
 
+## Code dependencies
+
+-Tesseract OCR (pipenv , Pillow , pythonRLSA )
+
+-OpenCV
+
+-Jupyter
+
+-CoppeliaSim
+
+-Fuzzywuzzy
+
+
+   * ## Instalation and uses
+   The first thing to do is to install tesseract, to do this you have to access the code folder and run the tesseract application, once run just select the next option until the    last tab where you have to select finish. Important not to change the installation path since it will be the one used in the execution of the code.
+   With respect to the rest of dependencies it is necessary to accede to the program and to change the second block of code of markdown to code and to execute it.
+
 ## Project description
 SorterBot is a pick and place robot that through the use of a hydraulic pump and a suction cup is able to perform two functionalities which are to classify subject notes by their title and to sort them by the relevant date that appears in those notes.
 To perform the first functionality SorterBot implements computer vision by means of a camera that allows it to visualize the content of the notes. From the content it analyzes, it saves the information of the titles in order to classify them according to the subject to which they correspond. Also note that in case there are sheets that do not contain information on subjects or there are more subjects than available spaces, it classifies them in a separate set.
@@ -102,24 +119,6 @@ These two supports allow us in the first case to hold the camera of the raspberr
  <img width="600" height="600" src="https://user-images.githubusercontent.com/65292012/118979839-3073aa00-b979-11eb-80d1-030a6b00e1c8.png">
  </p>
   
-
-## Code dependencies
-
--Tesseract OCR (pipenv , Pillow , pythonRLSA )
-
--OpenCV
-
--Jupyter
-
--CoppeliaSim
-
--Fuzzywuzzy
-
-
-   * ## Instalation and uses
-   The first thing to do is to install tesseract, to do this you have to access the code folder and run the tesseract application, once run just select the next option until the    last tab where you have to select finish. Important not to change the installation path since it will be the one used in the execution of the code.
-   With respect to the rest of dependencies it is necessary to accede to the program and to change the second block of code of markdown to code and to execute it.
-
 ## Simulation Strategy and implementation
 
 To simulate the project the first thing we do is to define the 3D design of the robot
