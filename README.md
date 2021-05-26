@@ -34,7 +34,7 @@ The available code and the 3d designs have been designed by the members of the R
 ## Video
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]https://youtu.be/GDZ8xmWGUts)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/GDZ8xmWGUts)
 
 
 ## Code dependencies
