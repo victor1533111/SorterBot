@@ -9,6 +9,7 @@
 
 ## Table of contents
 * [Repository Introduction](#Repository-Introduction)
+* [Video](#Video)
 * [Code dependencies](#Code-dependencies )
   * [Instalation and uses](#Instalation-and-uses )
 * [Project description](#Project-description)
@@ -31,9 +32,9 @@ This repository contains all the software modules, all the 3d files and the scen
 The available code and the 3d designs have been designed by the members of the RPL 2020-2021 group of computer engineering of the UAB formed by Cristian Gutiérrez, Carlos Peña and Víctor Batista and directed by the tutors Luis Vilariano and Carlos García.
 
 ## Video
-
-
 https://youtu.be/GDZ8xmWGUts
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
 
 ## Code dependencies
 
